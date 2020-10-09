@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamedpa&show_icons=true)](https://github.com/hamedpa)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamedpa&show_icons=true&hide=contribs,prs)](https://github.com/hamedpa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
